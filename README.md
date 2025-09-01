@@ -1,51 +1,58 @@
-# 🌌 Horizon  
-*A Modern, Holographic Compass & Level for Android*  
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green?logo=android&logoColor=white" alt="platform"/>
+  <img src="https://img.shields.io/badge/Kotlin-1.9-blue?logo=kotlin&logoColor=white" alt="kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-purple?logo=jetpackcompose&logoColor=white" alt="compose"/>
+</p>
+
+<h1 align="center">🌌 Horizon</h1>
+<h3 align="center">A Modern, Holographic Compass & Level for Android</h3>
+
+
+
+## 🛰️ About  
+
+**Horizon** is a futuristic reimagining of the classic compass and level utility.  
+Instead of outdated skeuomorphic dials, Horizon embraces a **holographic, sci-fi interface** that feels alive and immersive.  
+
+Built entirely with **Kotlin** + **Jetpack Compose**, it harnesses your device’s **gyroscope, accelerometer, and magnetometer** to create a **fluid, real-time 3D experience**.  
 
 ---
 
-### 📱 Platform  
-**Android** – Kotlin | Jetpack Compose | Modern Architecture  
+## ✨ Features  
 
----
+- 🚀 **Immersive Fullscreen Mode** – Edge-to-edge visuals with hidden system bars  
+- 🌌 **Unified Holographic UI** – Compass + Level fused into one seamless interface  
+- 🛰️ **3D Gyroscopic Tilting** – UI tilts dynamically in 3D space as you move your phone  
+- 💧 **Liquid Horizon Core** – A morphing orb that becomes a perfect circle when level  
+- 🧭 **Reactive Compass Ring** – Glowing North indicator + subtle cardinal markers (N, E, S, W)  
+- 🔌 **100% Offline** – Works fully without internet, powered by hardware sensors  
 
-### 🛰️ About  
-**Horizon** is a sleek, futuristic reimagining of a classic compass and level utility.  
-Instead of skeuomorphic, old-school dials, Horizon embraces a **holographic sci-fi interface**, delivering an **immersive, real-time experience** powered entirely by your device’s sensors.  
 
-Built with **Jetpack Compose**, it offers fluid performance and a UI that feels alive, making your phone feel more like a **sci-fi gadget** than a tool.  
 
----
+## ⚡ Tech Stack  
 
-### ✨ Features  
-
-- 🚀 **Immersive Fullscreen Mode** – Edge-to-edge visuals with hidden system bars.  
-- 🌌 **Unified Holographic UI** – Compass + Level combined into one seamless interface.  
-- 🛰️ **3D Gyroscopic Tilting** – UI dynamically tilts in 3D space as you move your phone.  
-- 💧 **Dynamic "Liquid Horizon" Core** – A fluid orb that morphs with tilt, forming a perfect circle when level.  
-- 🧭 **Reactive Compass Ring** – Clean glowing North indicator + subtle cardinal markers (‘N’, ‘E’, ‘S’, ‘W’).  
-- 🔌 **100% Offline** – Works without internet, powered by hardware sensors only.  
-
----
-
-### 🚧 Status  
-Currently in active development. Stay tuned for updates!  
-
----
-
-### 📸 Preview (Coming Soon)  
-Screenshots and demo GIFs will be added in future releases.  
-
----
-
-### ⚡ Tech Stack  
 - **Language:** Kotlin  
 - **UI Framework:** Jetpack Compose  
 - **Architecture:** Modern Android Architecture Components  
 - **Sensors:** Gyroscope, Accelerometer, Magnetometer  
 
+
+
+## 📸 Preview  
+🚧 *Coming Soon* – Screenshots & demo GIFs will be added here.  
+
+
+## 🤝 Contributing  
+
+Got an idea? Found a bug? Contributions are always welcome!  
+- Fork the repo  
+- Create your feature branch (`git checkout -b feature/amazing-feature`)  
+- Commit your changes (`git commit -m 'Add some amazing feature'`)  
+- Push to the branch (`git push origin feature/amazing-feature`)  
+- Open a Pull Request  
+
 ---
 
-### 🤝 Contributions  
-Pull requests, feature ideas, and feedback are welcome!  
-
----
+<p align="center">  
+Made with ❤️ using <b>Kotlin</b> + <b>Jetpack Compose</b>  
+</p>
